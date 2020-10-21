@@ -1,0 +1,16 @@
+\indexentry{lmlvq\_distance (module)@\spxentry{lmlvq\_distance}\spxextra{module}|hyperpage}{5}
+\indexentry{LMLVQ (class in lmlvq\_distance)@\spxentry{LMLVQ}\spxextra{class in lmlvq\_distance}|hyperpage}{5}
+\indexentry{A\_k() (lmlvq\_distance.LMLVQ method)@\spxentry{A\_k()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{5}
+\indexentry{beta\_k() (lmlvq\_distance.LMLVQ method)@\spxentry{beta\_k()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{5}
+\indexentry{cost\_function() (lmlvq\_distance.LMLVQ method)@\spxentry{cost\_function()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{5}
+\indexentry{d\_i\_k() (lmlvq\_distance.LMLVQ method)@\spxentry{d\_i\_k()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{6}
+\indexentry{euclidean\_dist() (lmlvq\_distance.LMLVQ method)@\spxentry{euclidean\_dist()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{6}
+\indexentry{fit() (lmlvq\_distance.LMLVQ method)@\spxentry{fit()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{6}
+\indexentry{mod\_Pk() (lmlvq\_distance.LMLVQ method)@\spxentry{mod\_Pk()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{7}
+\indexentry{normalization() (lmlvq\_distance.LMLVQ method)@\spxentry{normalization()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{7}
+\indexentry{one\_p\_k() (lmlvq\_distance.LMLVQ method)@\spxentry{one\_p\_k()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{7}
+\indexentry{predict() (lmlvq\_distance.LMLVQ method)@\spxentry{predict()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{7}
+\indexentry{prt() (lmlvq\_distance.LMLVQ method)@\spxentry{prt()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{7}
+\indexentry{prt\_labels (lmlvq\_distance.LMLVQ attribute)@\spxentry{prt\_labels}\spxextra{lmlvq\_distance.LMLVQ attribute}|hyperpage}{8}
+\indexentry{update() (lmlvq\_distance.LMLVQ method)@\spxentry{update()}\spxextra{lmlvq\_distance.LMLVQ method}|hyperpage}{8}
+\indexentry{update\_beta (lmlvq\_distance.LMLVQ attribute)@\spxentry{update\_beta}\spxextra{lmlvq\_distance.LMLVQ attribute}|hyperpage}{8}

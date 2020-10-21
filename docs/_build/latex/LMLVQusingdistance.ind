@@ -1,0 +1,58 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter A
+  \item \spxentry{A\_k()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{5}
+
+  \indexspace
+  \bigletter B
+  \item \spxentry{beta\_k()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{5}
+
+  \indexspace
+  \bigletter C
+  \item \spxentry{cost\_function()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{5}
+
+  \indexspace
+  \bigletter D
+  \item \spxentry{d\_i\_k()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{6}
+
+  \indexspace
+  \bigletter E
+  \item \spxentry{euclidean\_dist()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{6}
+
+  \indexspace
+  \bigletter F
+  \item \spxentry{fit()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{6}
+
+  \indexspace
+  \bigletter L
+  \item \spxentry{LMLVQ}\spxextra{class in lmlvq\_distance}, \hyperpage{5}
+  \item \spxentry{lmlvq\_distance}\spxextra{module}, \hyperpage{5}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{mod\_Pk()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{7}
+
+  \indexspace
+  \bigletter N
+  \item \spxentry{normalization()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{7}
+
+  \indexspace
+  \bigletter O
+  \item \spxentry{one\_p\_k()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{7}
+
+  \indexspace
+  \bigletter P
+  \item \spxentry{predict()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{7}
+  \item \spxentry{prt()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{7}
+  \item \spxentry{prt\_labels}\spxextra{lmlvq\_distance.LMLVQ attribute}, \hyperpage{8}
+
+  \indexspace
+  \bigletter U
+  \item \spxentry{update()}\spxextra{lmlvq\_distance.LMLVQ method}, \hyperpage{8}
+  \item \spxentry{update\_beta}\spxextra{lmlvq\_distance.LMLVQ attribute}, \hyperpage{8}
+
+\end{sphinxtheindex}
