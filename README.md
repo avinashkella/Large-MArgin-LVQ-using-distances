@@ -25,6 +25,7 @@ Learning Vector Quantization(LVQ) is well-known for Supervised Vector Quantizati
 
 <img src="http://latex.codecogs.com/svg.latex?\hspace{2mm}&space;\vec{\lambda}&space;\geq&space;0&space;\hspace{2mm}&space;and&space;\hspace{2mm}&space;\vec{1}^T&space;\cdot&space;\textbf{A}_{k}^T&space;\cdot&space;\vec{\lambda}&space;=&space;0\hspace{1cm},&space;\forall&space;k&space;\in&space;\{1,\dots,K\}" title="http://latex.codecogs.com/svg.latex?\hspace{2mm} \vec{\lambda} \geq 0 \hspace{2mm} and \hspace{2mm} \vec{1}^T \cdot \textbf{A}_{k}^T \cdot \vec{\lambda} = 0\hspace{1cm}, \forall k \in \{1,\dots,K\}" />
 
+
 8) Finally updates the prototypes:
 <p align="center">
   <img src="http://latex.codecogs.com/svg.latex?\lambda(t&plus;1)&space;=&space;\lambda(t)&space;-&space;\eta&space;\frac{\partial&space;E}{\partial&space;w(t)}" title="http://latex.codecogs.com/svg.latex?\lambda(t+1) = \lambda(t) - \eta \frac{\partial E}{\partial \lambda(t)}" />
