@@ -21,6 +21,7 @@ Learning Vector Quantization(LVQ) is well-known for Supervised Vector Quantizati
 
 7) Compute the cost function:
 
+<img src="https://bit.ly/2TdO147" align="center" border="0" alt="\frac{1}{2} \vec{\lambda}^T \cdot \left(C \cdot I - \sum_{k=1}^{K} \textbf{A}_{k}^T \cdot \frac{D}{|P_k|} \cdot \textbf{A}_{k}\right)\cdot \vec{\lambda} - \left(\gamma \cdot \vec{1}^T + \sum_{k=1}^{K} \vec{1}_{P_k}^T \cdot \frac{D}{|P_k|} \cdot \textbf{A}_{k}\right) \cdot \vec{\lambda} " width="543" height="53" />
 
 <img src="http://latex.codecogs.com/svg.latex?\hspace{2mm}&space;\vec{\lambda}&space;\geq&space;0&space;\hspace{2mm}&space;and&space;\hspace{2mm}&space;\vec{1}^T&space;\cdot&space;\textbf{A}_{k}^T&space;\cdot&space;\vec{\lambda}&space;=&space;0\hspace{1cm},&space;\forall&space;k&space;\in&space;\{1,\dots,K\}" title="http://latex.codecogs.com/svg.latex?\hspace{2mm} \vec{\lambda} \geq 0 \hspace{2mm} and \hspace{2mm} \vec{1}^T \cdot \textbf{A}_{k}^T \cdot \vec{\lambda} = 0\hspace{1cm}, \forall k \in \{1,\dots,K\}" />
 
