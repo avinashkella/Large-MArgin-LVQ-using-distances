@@ -21,7 +21,7 @@ Learning Vector Quantization(LVQ) is well-known for Supervised Vector Quantizati
 
 7) Compute the cost function:
 
-<img src=“https://github.com/avinashkella/Large-MArgin-LVQ-using-distances/blob/main/docs/cost_function.png” raw=true />
+<img src="e5kui\src\assets\img\launch\bunda3d5000FloorElevatorControlsFigmaPrototypeFileRouting.png" width="800px" height="auto">
 
 <img src="http://latex.codecogs.com/svg.latex?\hspace{2mm}&space;\vec{\lambda}&space;\geq&space;0&space;\hspace{2mm}&space;and&space;\hspace{2mm}&space;\vec{1}^T&space;\cdot&space;\textbf{A}_{k}^T&space;\cdot&space;\vec{\lambda}&space;=&space;0\hspace{1cm},&space;\forall&space;k&space;\in&space;\{1,\dots,K\}" title="http://latex.codecogs.com/svg.latex?\hspace{2mm} \vec{\lambda} \geq 0 \hspace{2mm} and \hspace{2mm} \vec{1}^T \cdot \textbf{A}_{k}^T \cdot \vec{\lambda} = 0\hspace{1cm}, \forall k \in \{1,\dots,K\}" />
 
