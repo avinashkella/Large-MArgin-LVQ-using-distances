@@ -28,7 +28,7 @@ Learning Vector Quantization(LVQ) is well-known for Supervised Vector Quantizati
 8) Finally updates the prototypes:
 
 <p align="center">
-  <img src="http://latex.codecogs.com/svg.latex?\lambda(t&plus;1)&space;=&space;\lambda(t)&space;-&space;\eta&space;\frac{\partial&space;E}{\partial&space;w(t)}" title="http://latex.codecogs.com/svg.latex?\lambda(t+1) = \lambda(t) - \eta \frac{\partial E}{\partial \lambda(t)}" />
+  <img src="http://latex.codecogs.com/svg.latex?\lambda(t&plus;1)&space;=&space;\lambda(t)&space;-&space;\eta&space;\frac{\partial&space;E}{\partial&space;\lambda(t)}" title="http://latex.codecogs.com/svg.latex?\lambda(t+1) = \lambda(t) - \eta \frac{\partial E}{\partial \lambda(t)}" />
 </p>
 
 ## Installation
